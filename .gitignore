@@ -1,0 +1,8 @@
+.gitignore
+.idea/get_learning.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+scracth.py
+.idea/vcs.xml
